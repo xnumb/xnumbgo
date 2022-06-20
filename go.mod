@@ -1,4 +1,4 @@
-module xnumbgo
+module github.com/xnumb/xnumbgo
 
 go 1.18
 
