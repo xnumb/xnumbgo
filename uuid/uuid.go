@@ -1,4 +1,4 @@
-package util
+package uuid
 
 import "github.com/gogf/gf/v2/util/guid"
 
